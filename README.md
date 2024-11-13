@@ -1,7 +1,3 @@
-Here's a README template for your collaborative file-sharing project. This README explains each part of the project concisely and effectively.
-
----
-
 # Collaborative File Sharing Platform
 
 A web application for sharing files across various formats (Text, PDF, images, PPT, DOC). Users can upload, view, and manage files, with the ability to invite contributors. Built with a MERN stack (MongoDB, Express, Next, Node.js) and AWS S3 for file storage.
@@ -116,7 +112,3 @@ collaborative-file-share/
 
 ## License
 This project is licensed under the MIT License.
-
----
-
-This README provides a clear overview of the project, setup instructions, and details on the technical implementation, making it easy for contributors and users to understand the app and start using or extending it.
