@@ -40,8 +40,8 @@ Follow these steps to set up the project locally.
 ### Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/collaborative-file-share.git
-   cd collaborative-file-share
+   git clone https://github.com/frypan05/notes.git
+   cd notes
    ```
 
 2. **Install backend dependencies**:
